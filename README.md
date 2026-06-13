@@ -8,6 +8,12 @@ I use Google Maps Street View and was curious about how they blur human faces, l
 
 ## What it does
 
+Before
+![before blur](6th-street-2500x750.jpg)
+
+After:
+![after blur](anonymized_traffic_cam.jpg)
+
 The script:
 
 1. Downloads a pretrained face-detection model from Hugging Face.
