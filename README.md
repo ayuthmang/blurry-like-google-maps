@@ -2,6 +2,10 @@
 
 Blur faces or license plates in a photo using a YOLO model and OpenCV.
 
+## Motivation
+
+I use Google Maps Street View and was curious about how they blur human faces, license plates, and other details. Just a quick playground 😁
+
 ## What it does
 
 The script:
